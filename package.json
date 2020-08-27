@@ -1,0 +1,22 @@
+{
+  "name": "nisseswebsite",
+  "version": "1.0.0",
+  "description": "Nils LS new website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nisseboii23/NissesWebsite.git"
+  },
+  "author": "Nils Larsson Strand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nisseboii23/NissesWebsite/issues"
+  },
+  "homepage": "https://github.com/Nisseboii23/NissesWebsite#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
