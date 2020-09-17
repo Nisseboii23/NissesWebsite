@@ -1,0 +1,33 @@
+* body {
+    margin: 0;
+}
+
+.container {
+    position: relative;
+    width: 1582px;
+}
+
+.container div {
+    height: 789px;
+}
+
+.column-left {
+    width: 33%;
+    left: 0;
+    background: #00F;
+    position: absolute;
+}
+
+.column-center {
+    width: 34%;
+    background: #933;
+    margin-left: 33%;
+    position: absolute;
+}
+
+.column-right {
+    width: 33%;
+    right: 0;
+    position: absolute;
+    background: #999;
+}
