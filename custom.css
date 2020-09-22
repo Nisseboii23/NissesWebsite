@@ -1,33 +1,30 @@
 * body {
-    margin: 0;
+    background-color: white;
 }
 
-.container {
-    position: relative;
-    width: 1582px;
+.page-wrap {
+    padding: 0;
+    margin: 0 auto;
+    width: 1024px;
+    height: 768;
 }
 
-.container div {
-    height: 789px;
-}
+.container {}
 
-.column-left {
+.col-1-3 {
     width: 33%;
-    left: 0;
-    background: #00F;
-    position: absolute;
+    float: left;
+    height: 100%;
 }
 
-.column-center {
-    width: 34%;
-    background: #933;
-    margin-left: 33%;
-    position: absolute;
+#left {
+    background-color: gold;
 }
 
-.column-right {
-    width: 33%;
-    right: 0;
-    position: absolute;
-    background: #999;
+#middle {
+    background-color: silver;
+}
+
+#right {
+    background-color: lightblue;
 }
