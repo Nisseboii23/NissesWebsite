@@ -1,5 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
 * body {
-    background-color: white;
+    background-color: rgba(201, 12, 194, 0.678);
 }
 
 .page-wrap {
