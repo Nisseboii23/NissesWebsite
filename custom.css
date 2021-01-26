@@ -10,6 +10,7 @@ html {
 
 * body {
     background-color: rgba(255, 255, 255, 0.568);
+    background-image: ;
 }
 
 .col-1-2 {
@@ -30,25 +31,25 @@ html {
 }
 
 #left-side {
-    background-color: crimson;
+    background-color: none;
 }
 
 #right-side {
-    background-color: aqua;
+    background-color: none;
 }
 
 #top-row {
-    background-color: darkorange;
+    background-color: none;
     height: 400px;
 }
 
 #middle-row {
-    background-color: darkred;
+    background-color: none;
     height: 400px;
 }
 
 #bottom-row {
-    background-color: blueviolet;
+    background-color: none;
     height: 400px;
 }
 
